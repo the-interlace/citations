@@ -30,3 +30,4 @@ Despite this centrality, citations are not generally treated as a first-class el
 * WikiCitations: future proposal
 * ORCID ($6M/yr to maintain + promote one PID)
 * CiteID
+* Citations to data (to queries, lenses, data points) - [essay](https://donnywinston.com/posts/data-citation-via-a-query-and-a-basis/)
