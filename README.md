@@ -1,4 +1,4 @@
-# Citations interlay
+# Citations layer
 
 Links between documents are widely used for context, support, validation, argument compression, and 'see also' style bibliographies.
 They are essential to discovery and search online, metrics from pagerank to h-index, indexes and sitemaps, and attribution.
@@ -9,25 +9,29 @@ Despite this centrality, citations are not generally treated as a first-class el
 
 
 ## Current projects
-* WikiCite (currently at the end of a small grant)
-*   Shared Citations: proposal (currently in limbo)
-* I4OCf  (reaching the successful conclusion of a campaign)
+* WikiCite (past event series, current meetup)
+*   Shared Citations: proposal (well formed, in limbo)
+*   WC` (future branch of Wikidata for cite metadata + metrics)
+* I4OC  (reaching the successful conclusion of a campaign)
 * Open Citations
 * Reliance on Science (patents to scholarship)
 * PatCit (patents to anything)
-* Scite  (currently: startup service)
+* Scite.ai  (startup service)
 
 ### Broader projects containing citations
-* Open Academic Graph (subpart: citation graph)
+* OpenAlex (subpart: citation graph) -- replacing MAG and OAG
+** S2AG (Semantic scholar)
+** IA Scholar
 * Lens.org (subpart: citations) 
 * Crossref 
 
 ### Projects relying heavily on citation graphs
 * Scaling Science
+* Semantic Scholar
+* [GraphCite](https://oanabalalau.com/pdf/graphcite.pdf)
 
 ## Related ideas + adjacent projects
-* Earlier WikiCite proposals (2005/2010)
-* WikiCitations: future proposal
+* Initial WikiCite proposal (2005/2010); future proposals for WC`
 * ORCID ($6M/yr to maintain + promote one PID)
 * CiteID
 * Citations to data (to queries, lenses, data points) - [essay](https://donnywinston.com/posts/data-citation-via-a-query-and-a-basis/)
